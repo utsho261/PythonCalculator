@@ -43,5 +43,6 @@ README.txt       →  This file (project documentation).
 
 Author
 ------
-Utsho
+Utsho Roy
+
 Module 5 – Python Programming Assignment
